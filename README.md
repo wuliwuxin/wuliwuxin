@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=wuliwuxin&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
+
+###  wuliwuxin👋
+
+- :orange_book: 研究生在读
+- :hammer: 研究方向：人工智能+医疗，聚焦于影像医学和智能中医诊断
+- :ram: 微信公众号：进阶媛小吴
+- 
+- :heart: 微信：wx1351658806
