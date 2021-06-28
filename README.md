@@ -4,12 +4,12 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=wuliwuxin.wuliwuxin)
 
-
-**社区主页**  
-
 - :orange_book: 研究生在读
 - :hammer: 研究方向：人工智能+医疗，聚焦于影像医学和智能中医诊断
 - :ram: 微信公众号：进阶媛小吴
+
+
+**社区主页**  
 - [CSDN](https://blog.csdn.net/wuli_xin?spm=1000.2115.3001.5343&type=lately)
 - [Bilibili](https://space.bilibili.com/404809876)
 - [知乎](https://www.zhihu.com/people/wu-xin-24-36-6)
