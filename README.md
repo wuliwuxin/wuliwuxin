@@ -22,7 +22,7 @@
     </td>
     <td width="45%">
         <p align="left"> 
-          <img align="right" src="https://github-readme-stats.vercel.app/api? username=wuliwuxin&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" /></p>
+        <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=wuliwuxin&show_icons=true&include_all_commits=true&count_private=true" alt="wuliwuxin" /> </p>
     </td>
    </tr>
 </tbody>
