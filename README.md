@@ -20,7 +20,7 @@
     <td>
       <img height="150" src="https://github.com/wuliwuxin/wuliwuxin/blob/main/wechat.png" />
     </td>
-    <td width="65%">
+    <td width="55%">
         <p align="left"> 
         <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=wuliwuxin&show_icons=true&include_all_commits=true&count_private=true" alt="wuliwuxin" /> </p>
     </td>
