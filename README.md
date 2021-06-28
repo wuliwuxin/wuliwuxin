@@ -15,8 +15,8 @@
 - [Bilibili](https://space.bilibili.com/404809876)
 - [知乎](https://www.zhihu.com/people/wu-xin-24-36-6)
 - [掘金](https://juejin.cn/user/1556564194370270)
-- :heart: 微信：wx1351658806
-- <img height="150" src="https://github.com/wuliwuxin/wuliwuxin/blob/main/wechat.png" />
+
+<img height="150" src="https://github.com/wuliwuxin/wuliwuxin/blob/main/wechat.png" />
 <!--
 **shengxinjing/shengxinjing** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
