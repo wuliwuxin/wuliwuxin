@@ -13,7 +13,7 @@
 - [CSDN](https://blog.csdn.net/wuli_xin?spm=1000.2115.3001.5343&type=lately)
 - [Bilibili](https://space.bilibili.com/404809876)
 - [知乎](https://www.zhihu.com/people/wu-xin-24-36-6)
-- [掘金](https://juejin.cn/user/1556564194370270)
+- [掘金](https://juejin.cn/user/958429870694733)
 <table width="100%" border="0" cellspacing="15" cellpadding="0">
 <tbody>
   <tr>
