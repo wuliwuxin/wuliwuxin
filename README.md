@@ -5,7 +5,7 @@
 ![](https://visitor-badge.glitch.me/badge?page_id=wuliwuxin.wuliwuxin)
 
 
-<img align="right" alt="GIF" src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="84" title="Say HI"> <details><summary><em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> : )</em></summary>
+<img align="right" alt="GIF" src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="84" title="Say HI"> <summary><em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> : )</em></summary>
 
 
 - 📖 I am currently a graduate student 🔭, and my main research interests are image processing, artificial intelligence + medical🔨 🧱, with a focus on imaging medicine, and intelligent Chinese medicine diagnosis.My research interests lie at <b>Machine Learning</b> and <b>Computer Vision</b>. 
@@ -13,6 +13,7 @@
 - 🤔 Only two things make me moved. 
 - ❤️ I like running 🏃‍♀️, eating 🐮, traveling 🏝, and bicycling 🚴.
 - 💬 Be free to ask me about anything [here](https://github.com/wuliwuxin/wuliwuxin/issues).
+---
 
 
 <table width="100%" border="0" cellspacing="15" cellpadding="0">
