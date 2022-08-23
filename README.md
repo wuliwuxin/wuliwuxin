@@ -1,19 +1,27 @@
 
 
-###  wuliwuxin👋
+###  Hi, 👋  I'm <a href="https://wuliwuxin.github.io/" target="_blank">WU Xin (wuliwuxin)</a> <sup><a href="https://github.com/Charmve/Charmve/blob/master/OctoCharmve/pronounce.m4a?raw=true" title="pronunciation">🔊</a></sup>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=wuliwuxin.wuliwuxin)
 
-- :orange_book: 研究生在读
-- :hammer: 研究方向：人工智能+医疗，聚焦于影像医学和智能中医诊断
-- :ram: 微信公众号：进阶媛小吴
+<!--my introduction start-->
+
+<img align="right" alt="GIF" src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="84" title="Say HI"> <details><summary><em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> : )</em></summary>
 
 
-**社区主页**  
-- [CSDN](https://blog.csdn.net/wuli_xin?spm=1000.2115.3001.5343&type=lately)
-- [Bilibili](https://space.bilibili.com/404809876)
-- [掘金](https://juejin.cn/user/958429870694733)
-- [我的博客](https://wuliwuxin.github.io/)
+- :orange_book I am currently a graduate student 🔭, and my main research interests are image processing, :hammer artificial intelligence + medical, with a focus on imaging medicine, and intelligent Chinese medicine diagnosis.My research interests lie at <b>Machine Learning</b> and <b>Computer Vision</b>. 
+- 🌱  I’m currently writing some amateur [open source projects](https://github.com/wuliwuxin?tab=repositories), at [@CSDN](https://blog.csdn.net/wuli_xin?spm=1000.2115.3001.5343&type=lately) , at [@cvmart](https://www.cvmart.net/profile?tab=myHomePage) and [@Bilibili](https://space.bilibili.com/404809876) by myself. 
+
+- 🤔 Only two things make me moved. 
+  1. To build a cross-platform [<i>VTuber</i>](https://github.com/DeepVTuber) in meta world, which called [未麻 MIMA](https://github.com/DeepVTuber/MIMA). 
+  2. <i>Bring Autonomous Driving into Real Life</i>. To solve the long tail problem and to optimize mass production performance is the goal.
+- ❤️ I like running 🏃‍♀️, eating 🐮, traveling 🏝, and bicycling 🚴.
+- 💬 Be free to ask me about anything [here](https://github.com/wuliwuxin/wuliwuxin/issues).
+
+---
+</details>
+
+<!--my introduction end -->
 
 <table width="100%" border="0" cellspacing="15" cellpadding="0">
 <tbody>
@@ -28,6 +36,8 @@
    </tr>
 </tbody>
 </table>
+
+🚧 **My Todolist Stats: ⬇️**
 
 <!--
 **shengxinjing/shengxinjing** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
