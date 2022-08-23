@@ -11,10 +11,7 @@
 
 - :orange_book I am currently a graduate student 🔭, and my main research interests are image processing, :hammer artificial intelligence + medical, with a focus on imaging medicine, and intelligent Chinese medicine diagnosis.My research interests lie at <b>Machine Learning</b> and <b>Computer Vision</b>. 
 - 🌱  I’m currently writing some amateur [open source projects](https://github.com/wuliwuxin?tab=repositories), at [@CSDN](https://blog.csdn.net/wuli_xin?spm=1000.2115.3001.5343&type=lately) , at [@cvmart](https://www.cvmart.net/profile?tab=myHomePage) and [@Bilibili](https://space.bilibili.com/404809876) by myself. 
-
 - 🤔 Only two things make me moved. 
-  1. To build a cross-platform [<i>VTuber</i>](https://github.com/DeepVTuber) in meta world, which called [未麻 MIMA](https://github.com/DeepVTuber/MIMA). 
-  2. <i>Bring Autonomous Driving into Real Life</i>. To solve the long tail problem and to optimize mass production performance is the goal.
 - ❤️ I like running 🏃‍♀️, eating 🐮, traveling 🏝, and bicycling 🚴.
 - 💬 Be free to ask me about anything [here](https://github.com/wuliwuxin/wuliwuxin/issues).
 
