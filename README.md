@@ -23,9 +23,9 @@
   <div align="center">
 
   <img height="150px" src="https://github-readme-stats.vercel.app/api?username=wuliwuxin&show_icons=true&include_all_commits=true&count_private=true" alt="wuliwuxin" />
-  <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guoxxiong&hide=html&layout=compact&theme=highcontrast" />
-  <img align="150px" src="https://github-readme-streak-stats.herokuapp.com/?user=guoxxiong&theme=highcontrast" alt="guoxxiong" />
-  <img align="150px" src="https://github-readme-streak-stats.herokuapp.com/?user=guoxxiong&theme=highcontrast" alt="guoxxiong" />
+  <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wuliwuxing&hide=html&layout=compact" />
+  <img align="150px" src="https://github-readme-streak-stats.herokuapp.com/?user=wuliwuxin" alt="wuliwuxin" />
+   <img height="150px" src="https://github.com/wuliwuxin/wuliwuxin/blob/main/wechat.png" />
    
  </div>
 
@@ -56,7 +56,7 @@ Here are some ideas to get you started:
     </td>
     <td width="55%">
         <p align="left"> 
-        <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=wuliwuxin&show_icons=true&include_all_commits=true&count_private=true" alt="wuliwuxin" /> </p>
+        <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=wuliwuxin&show_icons=true&include_all_commits=true&count_private=true &theme=highcontrast" alt="wuliwuxin" /> </p>
     </td>
    </tr>
 </tbody>
