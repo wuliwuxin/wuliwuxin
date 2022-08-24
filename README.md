@@ -24,8 +24,8 @@
 
   <img height="150px" src="https://github-readme-stats.vercel.app/api?username=wuliwuxin&show_icons=true&include_all_commits=true&count_private=true" alt="wuliwuxin" />
   <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wuliwuxin&hide=html&layout=compact" />
-  <img align="150px" src="https://github-readme-streak-stats.herokuapp.com/?user=wuliwuxin" alt="wuliwuxin" />
-   <img align="150px" src="https://github.com/wuliwuxin/wuliwuxin/blob/main/wechat.png" />
+  <img height="150px" src="https://github-readme-streak-stats.herokuapp.com/?user=wuliwuxin" alt="wuliwuxin" />
+   <img height="150px" src="https://github.com/wuliwuxin/wuliwuxin/blob/main/wechat.png" />
    
  </div>
 
