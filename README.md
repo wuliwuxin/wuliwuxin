@@ -8,7 +8,7 @@
 <img align="right" alt="GIF" src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="84" title="Say HI"> <summary><em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> : )</em></summary>
 
 
-- 📖 I am currently a graduate student 🔭, and my main research interests are image processing, artificial intelligence + medical🔨 🧱, with a focus on imaging medicine, and intelligent Chinese medicine diagnosis. My research interests lie at <b>Machine Learning</b> and <b>Computer Vision</b>. 
+- 📖 I am currently a graduate student 🔭, and my main research interests are image processing, artificial intelligence 💻 + medical 🏥, with a focus on imaging medicine, and intelligent Chinese medicine diagnosis. My research interests lie at <b>Machine Learning</b> and <b>Computer Vision</b>. 
 - 🌱  I’m currently writing some amateur [open source projects](https://github.com/wuliwuxin?tab=repositories), at [@CSDN](https://blog.csdn.net/wuli_xin?spm=1000.2115.3001.5343&type=lately) , at [@cvmart](https://www.cvmart.net/profile?tab=myHomePage) and [@Bilibili](https://space.bilibili.com/404809876) by myself. 
 - 🤔 Only two things make me moved. 
 
