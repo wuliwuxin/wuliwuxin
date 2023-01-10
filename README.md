@@ -29,7 +29,7 @@
    
  </div>
 
-🚧 **My Todolist Stats: ⬇️**
+🚧 **My Todolist Stats:** ⬇️
 
 <!--
 **wuxin/wuxin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
