@@ -28,8 +28,8 @@
    <img height="150px" src="https://github.com/wuliwuxin/wuliwuxin/blob/a4ab08e720e92dd2d2a76526956a075a2d24aeb0/WeChat.png" />
    
  </div>
-
-🚧 **My Todolist Stats:** ⬇️
+<!-- 
+🚧 **My Todolist Stats:** ⬇️ -->
 
 <!--
 **wuxin/wuxin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
