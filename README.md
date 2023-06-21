@@ -52,7 +52,7 @@ Here are some ideas to get you started:
 <tbody>
   <tr>
     <td>
-      <img height="150" src="https://github.com/wuliwuxin/wuliwuxin/blob/main/wechat.png" />
+      <img height="150" src="https://github.com/wuliwuxin/wuliwuxin/blob/main/wechat1.png" />
     </td>
     <td width="55%">
         <p align="left"> 
