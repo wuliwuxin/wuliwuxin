@@ -47,6 +47,7 @@ Here are some ideas to get you started:
 and [@Bilibili](https://space.bilibili.com/404809876) 
 -->
 
+![snake](https://raw.githubusercontent.com/wuliwuxin/wuliwuxin/main/assets/github-contribution-grid-snake.svg)
 
 <!--
 <table width="100%" border="0" cellspacing="15" cellpadding="0">
