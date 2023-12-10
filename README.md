@@ -10,7 +10,7 @@
 
 
 - 📖 I am currently a graduate student 🔭, and my main research interests are image processing, artificial intelligence 💻 + medical 🏥, with a focus on imaging medicine, and intelligent Chinese medicine diagnosis. My research interests lie in <b>Machine Learning, Computer Vision and Multimodal learning.</b>
-- 🌱  I’m currently writing some amateur [open source projects](https://github.com/wuliwuxin?tab=repositories), at [@CSDN](https://blog.csdn.net/wuli_xin?spm=1000.2115.3001.5343&type=lately) , at [@cvmart](https://www.cvmart.net/profile?tab=myHomePage) ,  at [@blog]([https://www.cvmart.net/profile?tab=myHomePage](https://wuliwuxin.github.io/) by myself.
+- 🌱  I’m currently writing some amateur [open source projects](https://github.com/wuliwuxin?tab=repositories), at [@CSDN](https://blog.csdn.net/wuli_xin?spm=1000.2115.3001.5343&type=lately) , at [@cvmart](https://www.cvmart.net/profile?tab=myHomePage), at [@blog](https://wuliwuxin.github.io/) by myself.
 - 🤔 Only two things make me move. 
 
      i.⌨️ 🧱 Working with Attention. It's all I need.
