@@ -1,6 +1,6 @@
 
 
-###  Hi, 👋  I'm <a href="https://wuliwuxin.github.io/" target="_blank">WU Xin (wuliwuxin)</a> <sup><a href="https://github.com/Charmve/Charmve/blob/master/OctoCharmve/pronounce.m4a?raw=true" title="pronunciation">🔊</a></sup>
+###  Hi, 👋  I'm <a href="https://wuliwuxin.github.io/" target="_blank">WU Xin (wuliwuxin)</a>, <a href="https://xinwu74.github.io/" target="_blank"> Acdemic </a> <sup><a href="https://github.com/Charmve/Charmve/blob/master/OctoCharmve/pronounce.m4a?raw=true" title="pronunciation">🔊</a></sup>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=wuliwuxin.wuliwuxin)
 
