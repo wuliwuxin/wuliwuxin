@@ -14,6 +14,11 @@
      
 - ❤️ I like running 🏃‍♀️, eating 🐮, traveling 🏝, and bicycling 🚴.
 - 💬 Be free to ask me about anything [here](https://github.com/wuliwuxin/wuliwuxin/issues).
+
+![](https://visitor-badge.glitch.me/badge?page_id=wuliwuxin.wuliwuxin)
+
+<img align="right" alt="GIF" src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="84" title=" Say HI"> <summary><em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> : )</em></summary>
+
 ---
 
   <div align="center">
