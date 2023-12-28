@@ -22,7 +22,14 @@
 - 💬 Be free to ask me about anything [here](https://github.com/wuliwuxin/wuliwuxin/issues).
 
 ---
+## News 🔥
+- Sec. 21st: Our KBS-2023 paper, "CTransCNN: A Hybrid Deep Learning Model Combining Transformer and CNN for Multilabel Medical Image" has been published! Code and models have to be open-sourced [here](https://github.com/wuliwuxin/CTransCNN).
 
+![Visitor Count](https://profile-counter.glitch.me/wuliwuxin/count.svg)
+
+ <!--   - Dec. 9th: Our AAAI-2024 paper titled "Bootstrapping Large Language Models for Radiology Report Generation" has been accepted! Code and models will be open-sourced [here](https://github.com/synlp/R2-LLM) ASAP. -->
+ <!--   - Nov. 27th: We have released our newest [survey paper](https://arxiv.org/abs/2311.14199) on radiology report generation. If you are interested in this research, check it out at our [GitHub repository](https://github.com/synlp/RRG-Review) for more information and resources.-->
+ 
   <div align="center">
 
   <img height="150px" src="https://github-readme-stats.vercel.app/api?username=wuliwuxin&show_icons=true&include_all_commits=true&count_private=true" alt="wuliwuxin" />
