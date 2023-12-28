@@ -23,7 +23,7 @@
 
 ## News 🔥
 
-- Sec. 21st: Our KBS-2023 paper, "CTransCNN: A Hybrid Deep Learning Model Combining Transformer and CNN for Multilabel Medical Image" has been published! Code and models have to be open-sourced [here](https://github.com/wuliwuxin/CTransCNN).
+- **Sep. 21st**: Our KBS-2023 paper, "[CTransCNN: A Hybrid Deep Learning Model Combining Transformer and CNN for Multilabel Medical Image](https://www.sciencedirect.com/science/article/pii/S0950705123007803)" has been published! Code and models have to be open-sourced [here](https://github.com/wuliwuxin/CTransCNN).
 
 ![Visitor Count](https://profile-counter.glitch.me/wuliwuxin/count.svg)
 
