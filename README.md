@@ -7,9 +7,9 @@
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="100" title=" Say HI"> <summary><em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> : )</em></summary>  
 
-- 📖 I am currently a PhD student. 🔭. The main research directions of the master's degree are image processing, AI 💻 + medical 🏥, and the key research directions are imaging medicine and traditional Chinese medicine intelligent diagnosis. My current research interests lie in time series 📈, multimodal learning, and reliable AI.</b>
+- 📖 I am currently a PhD student. 🔭. The main research directions of the master's degree are image processing, AI 💻 + medical 🏥. My current research interests lie in time series 📈, OOD Generalization, and reliable AI. I am committed to pushing the boundaries of these research areas and exploring the full potential of machine learning algorithms to contribute meaningfully to the world of technology.</b>
 
-- 🌱  I’m currently writing some amateur [open source projects](https://github.com/wuliwuxin?tab=repositories), at [@CSDN](https://blog.csdn.net/wuli_xin?spm=1000.2115.3001.5343&type=lately) , at [@cvmart](https://www.cvmart.net/profile?tab=myHomePage), at [@blog](https://wuliwuxin.github.io/) by myself.
+- 🌱  I’m currently writing some amateur [open source projects](https://github.com/wuliwuxin?tab=repositories).
   
 - 🤔 Only two things make me move. 
 
@@ -42,7 +42,10 @@
  </div>
 <!-- 
 🚧 **My Todolist Stats:** ⬇️ -->
-<!-- ![](https://visitor-badge.glitch.me/badge?page_id=wuliwuxin.wuliwuxin) -->
+<!-- ![](https://visitor-badge.glitch.me/badge?page_id=wuliwuxin.wuliwuxin) 
+ at [@CSDN](https://blog.csdn.net/wuli_xin?spm=1000.2115.3001.5343&type=lately) , at [@cvmart](https://www.cvmart.net/profile?tab=myHomePage), at [@blog](https://wuliwuxin.github.io/) by myself.
+-->
+
 <!--
 **wuxin/wuxin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
